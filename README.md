@@ -1,4 +1,6 @@
-<!DOCTYPE html>
+theme: jekyll-theme-minimal
+title: Octocat's homepage
+description: Bookmark this to keep an eye on my project updates!<!DOCTYPE html>
 <!-- saved from url=(0059)file:///C:/Users/lenovo/Downloads/Prorate%20Calculator.html -->
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
